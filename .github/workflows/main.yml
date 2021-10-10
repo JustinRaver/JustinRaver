@@ -3,7 +3,7 @@ name: Wakatime Charts
 on:
   workflow_dispatch:
   schedule:
-    - cron: "55 19 * * *"
+    - cron: "5 * * * *"
 
 jobs:
   update-charts:
