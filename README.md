@@ -22,11 +22,8 @@ This is the place where I keep track of my learning and promote learning for oth
 
 📊 &nbsp;**This week I spent my time on**
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+![Weekly Language Stats](https://raw.githubusercontent.com/JustinRaver/JustinRaver/master/images/wakatime_weekly_language_stats.svg "Weekly Language Stats")
+![Weekly Project Stats](https://raw.githubusercontent.com/JustinRaver/JustinRaver/master/images/wakatime_weekly_project_stats.svg "Weekly Project Stats")
 
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;Tools&nbsp;and&nbsp;Frameworks</b></summary>
   <br/>
