@@ -2,8 +2,8 @@
 This is the place where I keep track of my projects and learning
 
 - 🔭 &nbsp;Current Learnings
-  - [Algo Expert Interview Prep](https://www.algoexpert.io/product)
-  - [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+  - [Algo Expert Interview Prep](https://github.com/JustinRaver/Algo-Expert)
+  - [Java Masterclass](https://github.com/JustinRaver/Java-Masterclass)
 - 🌱 &nbsp;Future Learnings
   - Machine learning with python
   - Kotlin
