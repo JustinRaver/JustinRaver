@@ -2,7 +2,7 @@
 This is the place where I keep track of my projects and learning
 
 - 🔭 &nbsp;Current Learnings
-  - [Algo Expert Interview Prep](https://github.com/JustinRaver/Algo-Expert)
+  - [Algo Expert](https://github.com/JustinRaver/Algo-Expert)
   - [Java Masterclass](https://github.com/JustinRaver/Java-Masterclass)
   - [Coding Bat](https://github.com/JustinRaver/Coding-Bat)
 - 🌱 &nbsp;Future Learnings
