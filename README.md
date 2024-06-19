@@ -1,17 +1,4 @@
 ### Hi, I'm Justin, welcome to my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I keep track of my projects and learning
-
-- 🔭 &nbsp;Current Learnings
-  - [Algo Expert](https://github.com/JustinRaver/Algo-Expert)
-  - [Java Masterclass](https://github.com/JustinRaver/Java-Masterclass)
-  - [Coding Bat](https://github.com/JustinRaver/Coding-Bat)
-- 🌱 &nbsp;Future Learnings
-  - Machine learning with python
-  - Kotlin
-  - Go
-  - SpringBoot
-- 💬 &nbsp;I love helping with Java, C, and Python questions!
-- 📫 &nbsp;How to reach me: [justinjraver@gmail.com](justinjraver@gmail.com)
 
 <br>
 
